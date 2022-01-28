@@ -42,6 +42,9 @@ Theme settings
 
       5.1. Adjustments
       
+      ![image](https://user-images.githubusercontent.com/57184189/151567100-1666bc02-de1d-4e38-bc81-9ad844b36f98.png)
+
+      
       5.2. Orders
       
       5.3. Trades
